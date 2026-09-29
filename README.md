@@ -4,3 +4,5 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 
 Investigating-Timestamp-Laundering-and-False-Prior-Art-Claims
 In this investigation, we examine timestamp laundering and false prior art claims surrounding a suite of innovations in AI governance and agent payment systems.
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing. Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com. No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
